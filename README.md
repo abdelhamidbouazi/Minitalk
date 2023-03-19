@@ -10,6 +10,8 @@ Minitalk is a simple client-server program in C, using UNIX signals for inter-pr
 
 ## Usage
 
+
+
 ### Server
 
 ./server
